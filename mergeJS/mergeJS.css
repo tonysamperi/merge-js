@@ -1,0 +1,4 @@
+.form-control.mergeJS-customDisabled[disabled]{
+	background-color: #FFF;
+	cursor: text;
+}
